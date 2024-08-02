@@ -8,6 +8,9 @@
 body {
   background: #111111;
 }
+.error {
+  color: #0f0;
+}
 section {
   position: absolute;
   width: 100vw;
